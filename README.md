@@ -51,7 +51,7 @@ Install these
 
 **2. .env File**<br/>
 Create a .env file in the rag_chatbot_project/ directory to store your API key:
-
+(Do not upload to github/ alternatively create gitignore)
  ```
  GOOGLE_API_KEY="your api_key_here"
  [Replace "your api_key_here" with your actual Google API key.]
