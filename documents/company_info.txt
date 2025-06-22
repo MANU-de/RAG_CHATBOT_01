@@ -1,0 +1,10 @@
+Innovatech Solutions: Company Overview
+
+Innovatech Solutions, founded in 2015, is a leader in enterprise AI software.
+Our mission is to empower businesses with cutting-edge artificial intelligence.
+We offer a suite of products including:
+- InsightEngine: For predictive analytics.
+- AutomataPlatform: For workflow automation.
+- VisionAI: For computer vision tasks.
+Our headquarters are located in San Francisco, California.
+The CEO is Johnathan Chen. We value innovation, collaboration, and customer success.
